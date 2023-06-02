@@ -1,2 +1,2 @@
 # bookbot
-BookBot is my first git project!
+BookBot is bot that will count alphabet from your file.
